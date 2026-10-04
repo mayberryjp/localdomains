@@ -1,1 +1,6 @@
-10.4.10.4,homeassistant.datacenter.mayberry.farm,86400
+192.168.4.4,docker.azure.mayberry.farm,86400
+10.4.10.4,docker.quant.mayberry.farm,86400
+10.4.10.3,docker.codex.mayberry.farm,86400
+10.1.10.2,docker.house.mayberry.farm,86400
+10.2.10.2,docker.office.mayberry.farm,86400
+10.3.10.2,docker.farm.mayberry.farm,86400
