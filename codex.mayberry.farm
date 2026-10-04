@@ -1,0 +1,17 @@
+caddy.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+docker-updater.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+homeassistant.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+localmonitoring.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+mirenai-website.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+mirenai.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+mosquitto.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+ntp.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+ollama.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+open-webui.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+pihole.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+sando-website.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+sando.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+syslog-ng.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+tcpmeshdaemon.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+uptime-kuma.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+watchtower.codex.mayberry.farm,docker.codex.mayberry.farm,86400
