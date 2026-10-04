@@ -16,7 +16,7 @@ syslog-ng.house.mayberry.farm,docker.house.mayberry.farm,86400
 tcpmeshdaemon.house.mayberry.farm,docker.house.mayberry.farm,86400
 unifi-network-application.house.mayberry.farm,docker.house.mayberry.farm,86400
 unifidb.house.mayberry.farm,docker.house.mayberry.farm,86400
-uptime-kuma-v2-api.house.mayberry.farm,docker.house.mayberry.farm,86400
+uptimekuma-v2-api.house.mayberry.farm,docker.house.mayberry.farm,86400
 uptimekuma.house.mayberry.farm,docker.house.mayberry.farm,86400
 watchtower.house.mayberry.farm,docker.house.mayberry.farm,86400
 zwavejs2mqtt.house.mayberry.farm,docker.house.mayberry.farm,86400
