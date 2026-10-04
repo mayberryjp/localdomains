@@ -16,6 +16,7 @@ syslog-ng.office.mayberry.farm,docker.office.mayberry.farm,86400
 tcpmeshdaemon.office.mayberry.farm,docker.office.mayberry.farm,86400
 unifi-network-application.office.mayberry.farm,docker.office.mayberry.farm,86400
 unifi-db.office.mayberry.farm,docker.office.mayberry.farm,86400
-uptime-kuma.office.mayberry.farm,docker.office.mayberry.farm,86400
+uptime-kuma-v2-api.office.mayberry.farm,docker.office.mayberry.farm,86400
+uptimekuma.office.mayberry.farm,docker.office.mayberry.farm,86400
 watchtower.office.mayberry.farm,docker.office.mayberry.farm,86400
 zwavejs2mqtt.office.mayberry.farm,docker.office.mayberry.farm,86400

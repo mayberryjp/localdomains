@@ -13,5 +13,6 @@ sando-website.codex.mayberry.farm,docker.codex.mayberry.farm,86400
 sando.codex.mayberry.farm,docker.codex.mayberry.farm,86400
 syslog-ng.codex.mayberry.farm,docker.codex.mayberry.farm,86400
 tcpmeshdaemon.codex.mayberry.farm,docker.codex.mayberry.farm,86400
-uptime-kuma.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+uptime-kuma-v2-api.codex.mayberry.farm,docker.codex.mayberry.farm,86400
+uptimekuma.codex.mayberry.farm,docker.codex.mayberry.farm,86400
 watchtower.codex.mayberry.farm,docker.codex.mayberry.farm,86400
