@@ -19,6 +19,6 @@ sando.azure.mayberry.farm,docker.azure.mayberry.farm,86400
 sando_masterapi_website.azure.mayberry.farm,docker.azure.mayberry.farm,86400
 tcpmeshdaemon.azure.mayberry.farm,docker.azure.mayberry.farm,86400
 termix.azure.mayberry.farm,docker.azure.mayberry.farm,86400
-uptime-kuma-v2-api.azure.mayberry.farm,docker.azure.mayberry.farm,86400
+uptimekuma-v2-api.azure.mayberry.farm,docker.azure.mayberry.farm,86400
 uptimekuma.azure.mayberry.farm,docker.azure.mayberry.farm,86400
 watchtower.azure.mayberry.farm,docker.azure.mayberry.farm,86400
