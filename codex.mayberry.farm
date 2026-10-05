@@ -8,7 +8,6 @@ docker.codex.mayberry.farm,mosquitto.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,ntp.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,ollama.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,open-webui.codex.mayberry.farm,86400
-docker.codex.mayberry.farm,pihole.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,sando-website.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,sando.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,syslog-ng.codex.mayberry.farm,86400
