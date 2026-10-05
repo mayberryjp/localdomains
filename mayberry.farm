@@ -45,3 +45,7 @@
 10.2.70.5,workshopfrontcamera.office.mayberry.farm,86400
 10.2.30.3,zigbeecoordinator.office.mayberry.farm,86400
 192.168.4.4,termix.mayberry.farm,86400
+10.4.10.3,codex.datacenter.mayberry.farm,86400
+10.3.10.2,unifi.farm.mayberry.farm,86400
+10.2.10.2,unifi.office.mayberry.farm,86400
+10.1.10.2,unifi.house.mayberry.farm,86400
