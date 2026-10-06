@@ -7,7 +7,6 @@ docker.quant.mayberry.farm,execution.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,finbert.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,indicators.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,kafka.quant.mayberry.farm,86400
-docker.quant.mayberry.farm,kafka-init.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,momentum.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,monitoring.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,positions.quant.mayberry.farm,86400
