@@ -11,6 +11,7 @@ docker.azure.mayberry.farm,azure.mayberry.farm,86400
 docker.farm.mayberry.farm,unifi.farm.mayberry.farm,86400
 docker.office.mayberry.farm,unifi.office.mayberry.farm,86400
 docker.house.mayberry.farm,unifi.house.mayberry.farm,86400
+docker.codex.mayberry.farm,unifi.codex.mayberry.farm,86400
 docker.house.mayberry.farm,go2rtc.house.mayberry.farm,86400
 docker.office.mayberry.farm,go2rtc.office.mayberry.farm,86400
 docker.farm.mayberry.farm,go2rtc.farm.mayberry.farm,86400
