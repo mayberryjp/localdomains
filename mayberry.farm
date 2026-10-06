@@ -5,15 +5,14 @@
 10.2.10.2,docker.office.mayberry.farm,86400
 10.3.10.2,docker.farm.mayberry.farm,86400
 docker.azure.mayberry.farm,earthquake.mayberry.farm,86400
-docker.farm.mayberry.farm,go2trc.farm.mayberry.farm,86400
 docker.azure.mayberry.farm,homepage.mayberry.farm,86400
 docker.azure.mayberry.farm,termix.mayberry.farm,86400
+docker.azure.mayberry.farm,azure.mayberry.farm,86400
 docker.farm.mayberry.farm,unifi.farm.mayberry.farm,86400
 docker.office.mayberry.farm,unifi.office.mayberry.farm,86400
 docker.house.mayberry.farm,unifi.house.mayberry.farm,86400
 docker.house.mayberry.farm,go2rtc.house.mayberry.farm,86400
-docker.office.mayberry.farm,unifi.office.mayberry.farm,86400
 docker.office.mayberry.farm,go2rtc.office.mayberry.farm,86400
 docker.farm.mayberry.farm,go2rtc.farm.mayberry.farm,86400
 192.168.130.1,router.farm.mayberry.farm,86400
-docker.azure.mayberry.farm,azure.mayberry.farm,86400
+
