@@ -12,6 +12,8 @@ docker.codex.mayberry.farm,sando-website.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,sando.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,syslog-ng.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,tcpmeshdaemon.codex.mayberry.farm,86400
+docker.codex.mayberry.farm,unifi-network-application.codex.mayberry.farm,86400
+docker.codex.mayberry.farm,unifi-db.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,uptimekuma-v2-api.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,uptimekuma.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,watchtower.codex.mayberry.farm,86400
