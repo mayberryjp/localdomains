@@ -9,6 +9,7 @@ docker.house.mayberry.farm,mirenai-website.house.mayberry.farm,86400
 docker.house.mayberry.farm,mirenai.house.mayberry.farm,86400
 docker.house.mayberry.farm,mosquitto.house.mayberry.farm,86400
 docker.house.mayberry.farm,ntp.house.mayberry.farm,86400
+docker.house.mayberry.farm,pfsense_backup.house.mayberry.farm,86400
 docker.house.mayberry.farm,sando-website.house.mayberry.farm,86400
 docker.house.mayberry.farm,sando.house.mayberry.farm,86400
 docker.house.mayberry.farm,syslog-ng.house.mayberry.farm,86400
