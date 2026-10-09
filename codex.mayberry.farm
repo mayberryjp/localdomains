@@ -4,6 +4,7 @@ docker.codex.mayberry.farm,localmonitoring.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,mirenai-website.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,mirenai.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,mosquitto.codex.mayberry.farm,86400
+docker.codex.mayberry.farm,netgear_backup.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,ntp.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,ollama.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,open-webui.codex.mayberry.farm,86400
