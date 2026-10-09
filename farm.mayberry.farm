@@ -7,6 +7,7 @@ docker.farm.mayberry.farm,localmonitoring.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,mirenai-website.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,mirenai.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,mosquitto.farm.mayberry.farm,86400
+docker.farm.mayberry.farm,netgear_backup.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,ntp.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,pfsense_backup.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,sando-website.farm.mayberry.farm,86400
