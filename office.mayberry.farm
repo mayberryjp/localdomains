@@ -11,6 +11,8 @@ docker.office.mayberry.farm,mosquitto.office.mayberry.farm,86400
 docker.office.mayberry.farm,netgear_backup.office.mayberry.farm,86400
 docker.office.mayberry.farm,ntp.office.mayberry.farm,86400
 docker.office.mayberry.farm,pfsense_backup.office.mayberry.farm,86400
+docker.office.mayberry.farm,portainer-agent.office.mayberry.farm,86400
+docker.office.mayberry.farm,portainer.office.mayberry.farm,86400
 docker.office.mayberry.farm,sando-website.office.mayberry.farm,86400
 docker.office.mayberry.farm,sando.office.mayberry.farm,86400
 docker.office.mayberry.farm,syslog-ng.office.mayberry.farm,86400
