@@ -22,4 +22,6 @@ docker.azure.mayberry.farm,tcpmeshdaemon.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,termix.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,uptimekuma-v2-api.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,uptimekuma.azure.mayberry.farm,86400
+docker.azure.mayberry.farm,vnstat_backend.azure.mayberry.farm,86400
+docker.azure.mayberry.farm,vnstat_frontend.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,watchtower.azure.mayberry.farm,86400
