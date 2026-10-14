@@ -2,7 +2,6 @@ docker.azure.mayberry.farm,bitwarden.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,caddy.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,docker-updater.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,earthquake-mqtt.azure.mayberry.farm,86400
-docker.azure.mayberry.farm,earthquake-mqtt-fetcher.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,homeassistant.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,homelabids-masterapi.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,homepage.azure.mayberry.farm,86400
