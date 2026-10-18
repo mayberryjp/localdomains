@@ -9,6 +9,7 @@ docker.quant.mayberry.farm,indicators.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,kafka.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,momentum.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,monitoring.quant.mayberry.farm,86400
+docker.quant.mayberry.farm,portainer.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,positions.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,postgres.quant.mayberry.farm,86400
 docker.quant.mayberry.farm,reddit.quant.mayberry.farm,86400
