@@ -16,7 +16,7 @@ docker.farm.mayberry.farm,sando.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,syslog-ng.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,tcpmeshdaemon.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,unifi-network-application.farm.mayberry.farm,86400
-docker.farm.mayberry.farm,unifidb.farm.mayberry.farm,86400
+docker.farm.mayberry.farm,unifi-db.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,uptimekuma-v2-api.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,uptimekuma.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,watchtower.farm.mayberry.farm,86400
