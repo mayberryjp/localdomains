@@ -10,7 +10,7 @@ docker.codex.mayberry.farm,homeassistant.codex.mayberry.farm,86400
 10.4.20.44,ollama.codex.mayberry.farm,86400
 10.4.20.45,open-webui.codex.mayberry.farm,86400
 10.4.20.20,pfsense_backup.codex.mayberry.farm,86400
-10.4.20.10,portainer.codex.mayberry.farm,86400
+10.4.10.3,portainer.codex.mayberry.farm,86400
 10.4.20.42,sando-website.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,sando.codex.mayberry.farm,86400
 10.4.20.14,syslog-ng.codex.mayberry.farm,86400

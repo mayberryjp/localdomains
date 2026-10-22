@@ -10,7 +10,7 @@ docker.farm.mayberry.farm,homeassistant.farm.mayberry.farm,86400
 10.3.20.19,netgear_backup.farm.mayberry.farm,86400
 10.3.20.15,ntp.farm.mayberry.farm,86400
 10.3.20.20,pfsense_backup.farm.mayberry.farm,86400
-10.3.20.10,portainer.farm.mayberry.farm,86400
+10.3.10.2,portainer.farm.mayberry.farm,86400
 10.3.20.42,sando-website.farm.mayberry.farm,86400
 docker.farm.mayberry.farm,sando.farm.mayberry.farm,86400
 10.3.20.14,syslog-ng.farm.mayberry.farm,86400
