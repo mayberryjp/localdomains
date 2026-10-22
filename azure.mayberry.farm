@@ -12,6 +12,7 @@ docker.azure.mayberry.farm,mite.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,miteweb.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,n8n.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,n8n-runners.azure.mayberry.farm,86400
+docker.azure.mayberry.farm,ntp.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,openclaw-gateway.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,portainer.azure.mayberry.farm,86400
 docker.azure.mayberry.farm,sando-website.azure.mayberry.farm,86400
