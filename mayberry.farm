@@ -15,4 +15,9 @@ docker.house.mayberry.farm,go2rtc.house.mayberry.farm,86400
 docker.office.mayberry.farm,go2rtc.office.mayberry.farm,86400
 docker.farm.mayberry.farm,go2rtc.farm.mayberry.farm,86400
 192.168.130.1,router.farm.mayberry.farm,86400
-
+docker.azure.mayberry.farm,portainer.azure.mayberry.farm,86400
+docker.farm.mayberry.farm,portainer.farm.mayberry.farm,86400
+docker.codex.mayberry.farm,portainer.codex.mayberry.farm,86400
+docker.quant.mayberry.farm,portainer.quant.mayberry.farm,86400
+docker.office.mayberry.farm,portainer.office.mayberry.farm,86400
+docker.house.mayberry.farm,portainer.house.mayberry.farm,86400
