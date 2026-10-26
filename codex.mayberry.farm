@@ -1,6 +1,6 @@
 10.4.20.11,docker-updater.codex.mayberry.farm,86400
 10.4.20.46,earthquake-mqtt-fetcher.codex.mayberry.farm,86400
-docker.codex.mayberry.farm,homeassistant.codex.mayberry.farm,86400
+10.4.20.35,homeassistant.codex.mayberry.farm,86400
 10.4.20.16,localmonitoring.codex.mayberry.farm,86400
 10.4.20.41,mirenai-website.codex.mayberry.farm,86400
 10.4.20.40,mirenai.codex.mayberry.farm,86400
@@ -15,8 +15,8 @@ docker.codex.mayberry.farm,homeassistant.codex.mayberry.farm,86400
 docker.codex.mayberry.farm,sando.codex.mayberry.farm,86400
 10.4.20.14,syslog-ng.codex.mayberry.farm,86400
 10.4.20.13,tcpmeshdaemon.codex.mayberry.farm,86400
-docker.codex.mayberry.farm,unifi-network-application.codex.mayberry.farm,86400
-docker.codex.mayberry.farm,unifi-db.codex.mayberry.farm,86400
+10.4.20.21,unifi-network-application.codex.mayberry.farm,86400
+10.4.20.63,unifi-db.codex.mayberry.farm,86400
 10.4.20.18,uptimekuma-v2-api.codex.mayberry.farm,86400
 10.4.20.17,uptimekuma.codex.mayberry.farm,86400
 10.4.20.12,watchtower.codex.mayberry.farm,86400
