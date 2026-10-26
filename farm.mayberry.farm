@@ -12,11 +12,11 @@ docker.farm.mayberry.farm,homeassistant.farm.mayberry.farm,86400
 10.3.20.20,pfsense_backup.farm.mayberry.farm,86400
 10.3.10.2,portainer.farm.mayberry.farm,86400
 10.3.20.42,sando-website.farm.mayberry.farm,86400
-docker.farm.mayberry.farm,sando.farm.mayberry.farm,86400
+10.3.40.40,sando.farm.mayberry.farm,86400
 10.3.20.14,syslog-ng.farm.mayberry.farm,86400
 10.3.20.13,tcpmeshdaemon.farm.mayberry.farm,86400
-docker.farm.mayberry.farm,unifi-network-application.farm.mayberry.farm,86400
-docker.farm.mayberry.farm,unifi-db.farm.mayberry.farm,86400
+10.3.20.21,unifi-network-application.farm.mayberry.farm,86400
+10.3.20.63,unifi-db.farm.mayberry.farm,86400
 10.3.20.18,uptimekuma-v2-api.farm.mayberry.farm,86400
 10.3.20.17,uptimekuma.farm.mayberry.farm,86400
 10.3.20.12,watchtower.farm.mayberry.farm,86400
