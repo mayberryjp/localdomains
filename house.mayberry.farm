@@ -1,8 +1,8 @@
 10.1.20.11,docker-updater.house.mayberry.farm,86400
-docker.house.mayberry.farm,esphome.house.mayberry.farm,86400
+10.1.20.36,esphome.house.mayberry.farm,86400
 10.1.20.32,frigate.house.mayberry.farm,86400
 10.1.20.43,hermes.house.mayberry.farm,86400
-docker.house.mayberry.farm,homeassistant.house.mayberry.farm,86400
+10.1.20.35,homeassistant.house.mayberry.farm,86400
 10.1.20.33,huawei_smart_logger_docker.house.mayberry.farm,86400
 10.1.20.16,localmonitoring.house.mayberry.farm,86400
 10.1.20.41,mirenai-website.house.mayberry.farm,86400

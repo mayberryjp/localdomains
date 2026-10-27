@@ -1,8 +1,8 @@
 10.2.20.11,docker-updater.office.mayberry.farm,86400
-docker.office.mayberry.farm,esphome.office.mayberry.farm,86400
+10.2.20.36,esphome.office.mayberry.farm,86400
 10.2.20.32,frigate.office.mayberry.farm,86400
 10.2.20.43,hermes.office.mayberry.farm,86400
-docker.office.mayberry.farm,homeassistant.office.mayberry.farm,86400
+10.2.20.35,homeassistant.office.mayberry.farm,86400
 10.2.20.34,huawei_fsportal.office.mayberry.farm,86400
 10.2.20.16,localmonitoring.office.mayberry.farm,86400
 10.2.20.41,mirenai-website.office.mayberry.farm,86400
