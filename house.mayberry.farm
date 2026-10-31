@@ -7,6 +7,8 @@
 10.1.20.16,localmonitoring.house.mayberry.farm,86400
 10.1.20.41,mirenai-website.house.mayberry.farm,86400
 10.1.20.40,mirenai.house.mayberry.farm,86400
+10.1.20.47,modan-frontend.house.mayberry.farm,86400
+10.1.20.48,modan-registry.house.mayberry.farm,86400
 10.1.20.30,mosquitto.house.mayberry.farm,86400
 10.1.20.19,netgear_backup.house.mayberry.farm,86400
 10.1.20.15,ntp.house.mayberry.farm,86400
@@ -20,5 +22,4 @@
 10.1.20.63,unifi-db.house.mayberry.farm,86400
 10.1.20.18,uptimekuma-v2-api.house.mayberry.farm,86400
 10.1.20.17,uptimekuma.house.mayberry.farm,86400
-10.1.20.12,watchtower.house.mayberry.farm,86400
 10.1.20.31,zwavejs2mqtt.house.mayberry.farm,86400

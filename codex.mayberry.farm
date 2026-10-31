@@ -4,6 +4,8 @@
 10.4.20.16,localmonitoring.codex.mayberry.farm,86400
 10.4.20.41,mirenai-website.codex.mayberry.farm,86400
 10.4.20.40,mirenai.codex.mayberry.farm,86400
+10.4.20.47,modan-frontend.codex.mayberry.farm,86400
+10.4.20.48,modan-registry.codex.mayberry.farm,86400
 10.4.20.30,mosquitto.codex.mayberry.farm,86400
 10.4.20.19,netgear_backup.codex.mayberry.farm,86400
 10.4.20.15,ntp.codex.mayberry.farm,86400
@@ -19,4 +21,3 @@
 10.4.20.63,unifi-db.codex.mayberry.farm,86400
 10.4.20.18,uptimekuma-v2-api.codex.mayberry.farm,86400
 10.4.20.17,uptimekuma.codex.mayberry.farm,86400
-10.4.20.12,watchtower.codex.mayberry.farm,86400

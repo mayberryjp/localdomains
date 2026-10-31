@@ -6,6 +6,8 @@
 10.4.60.105,finbert.quant.mayberry.farm,86400
 10.4.60.106,indicators.quant.mayberry.farm,86400
 10.4.60.62,kafka.quant.mayberry.farm,86400
+10.4.60.47,modan-frontend.quant.mayberry.farm,86400
+10.4.60.48,modan-registry.quant.mayberry.farm,86400
 10.4.60.107,momentum.quant.mayberry.farm,86400
 10.4.60.108,monitoring.quant.mayberry.farm,86400
 10.4.10.4,portainer.quant.mayberry.farm,86400
@@ -20,6 +22,5 @@
 10.4.60.115,symbols.quant.mayberry.farm,86400
 10.4.60.14,syslog-ng.quant.mayberry.farm,86400
 10.4.60.13,tcpmeshdaemon.quant.mayberry.farm,86400
-10.4.60.12,watchtower.quant.mayberry.farm,86400
 10.4.60.116,web.quant.mayberry.farm,86400
 10.4.60.117,youtube.quant.mayberry.farm,86400
