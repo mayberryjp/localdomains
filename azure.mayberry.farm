@@ -15,7 +15,7 @@
 10.0.20.51,n8n-runners.azure.mayberry.farm,86400
 10.0.20.15,ntp.azure.mayberry.farm,86400
 10.0.20.56,openclaw-gateway.azure.mayberry.farm,86400
-10.0.20.10,portainer.azure.mayberry.farm,86400
+192.168.4.4,portainer.azure.mayberry.farm,86400
 10.0.20.42,sando-website.azure.mayberry.farm,86400
 10.0.40.40,sando.azure.mayberry.farm,86400
 10.0.20.53,sando_masterapi_website.azure.mayberry.farm,86400
