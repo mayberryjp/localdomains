@@ -2,7 +2,7 @@
 10.0.20.49,bitwarden.azure.mayberry.farm,86400
 10.0.20.12,caddy.azure.mayberry.farm,86400
 10.0.20.11,docker-updater.azure.mayberry.farm,86400
-10.0.20.30,earthquake-mqtt.azure.mayberry.farm,86400
+10.0.20.30,mosquitto.azure.mayberry.farm,86400
 10.0.20.35,homeassistant.azure.mayberry.farm,86400
 10.0.20.52,homelabids-masterapi.azure.mayberry.farm,86400
 10.0.20.23,homepage.azure.mayberry.farm,86400
